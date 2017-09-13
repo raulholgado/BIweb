@@ -42,7 +42,7 @@
                         <div class="col-sm-12">
                             <hr class="hr-uoc">
                             <div class="orientation paddingR">                
-                              {{$bloc.contingut}}
+                              {{ safeHTML (markdownify $bloc.contingut) }}
                             </div>
                         </div>
                     </div>
