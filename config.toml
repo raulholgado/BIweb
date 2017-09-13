@@ -1,0 +1,7 @@
+baseURL = "http://localhost"
+languageCode = "ca-es"
+title = "UOC Static Site Generator"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
