@@ -24,7 +24,7 @@
         <div class="container">
             <div class="row row-custom-pad">
 
-            {{ range $.Site.Home.Sections }}
+            {{ range where .Data.Pages "Section" "bi" }}
 
                 <!--Col-->
                 <div class="col-md-4">
