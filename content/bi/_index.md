@@ -1,5 +1,5 @@
-+++
-title = "Business Intelligence"
-image = "/images/bi.jpg"
-
-+++
+---
+image: /images/bi.jpg
+title: Business Intelligence
+---
+sdfsadfadfadfasdf
