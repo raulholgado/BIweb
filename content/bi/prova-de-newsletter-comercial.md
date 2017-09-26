@@ -10,8 +10,11 @@ Blocs:
     titol: Titulacions Oficials
   - contingut: "Les dades son d'ahir per una incidència tecnològica en el sistema de reporting. Estem a un \\+5% per sobre en interessats, un cop resolt el problema amb els impactes del semestre passat.\_\_\n\nPortem\_**x.xxx matrícules en vers a les x.xxx**\_que portàvem l’any passat, el que suposa un creixement del\_**\\+6,2**%.\_Estem 3,5 punts per sota en assoliment en vers a l'any passat."
     titol: PG
+  - contingut: "Les dades son d'ahir per una incidència tecnològica en el sistema de reporting.****\n\n* **Cursos d’Idiomes**:\n\n> La campanya va molt bé, portem\_**x.xxx**\_matrícules en vers les x.xxx que teníem l’any passat (**\\+22,1%**).\n>\n> Si ho mirem per idiomes, van tots en positiu excepte Alemany i Xinès. L'anglès és el més demandat pel CIM, amb un 70% del total de matrícules.\_\n>\n> Si en centrem en zones Geogràfiques, tenim creixement a les tres zones, Catalunya (\\+19%), Resta d’Espanya (\\+45%) i Internacional (\\+59%).\n>\n> Per nivells, destacar l'increment exponencial de matrícules en nivells avançats.\n\n\_\n\n* **Assignatures Lliures:**\n\n> Portem\_**xxx**\_matrícules en vers a les xxx que portàvem l’any passat, el que significa un\_**\\+9,6%**\_per sobre de la campanya 2016.1.\n>\n> Per àmbits de coneixement, destacar AiH per ser la que porta més matrícules respecte la campanya anterior. Destaquem la demanda en les assignatures d'Humanitats i Història.\n>\n> Si ho mirem per zones geogràfiques, Catalunya va un \\+7% i la Resta Espanya un \\+27%.\n>\n> \_\n\n* **Seminaris de Tardor**\n\n> La campanya va començar fa una setmana. Portem\_**xx**\_matrícules en vers les xx que teníem l’any passat (**\\+69,2%**).\n>\n> Per\_**àmbits de coneixement**, destacar Salut per la seva demanda creixent en els cursos de Neuroeducació i Alimentació i Salut en l'àmbit de la Nutrició.\n>\n> I si ens centrem en**\_zones Geogràfiques**, tenim creixement a les dues zones: Catalunya en un \\+32% i Resta Espanya en un \\+175%"
+    titol: ALTRES TIPOLOGIES
 ---
 lkhaskldhasdf
+
 
 
 
