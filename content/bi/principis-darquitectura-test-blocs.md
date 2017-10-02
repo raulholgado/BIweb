@@ -1,7 +1,7 @@
 ---
 title: Principis d'arquitectura (test blocs)
 description: null
-weight: 2
+weight: '3'
 Blocs:
   - contingut: >
       * Els nous sistemes i aplicacions es regiran pels principis de **cloud
@@ -123,3 +123,4 @@ Blocs:
     titol: Principis sobre el cost i manteniment de les solucions
 ---
  
+
