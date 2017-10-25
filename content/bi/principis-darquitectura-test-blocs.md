@@ -1,6 +1,5 @@
 ---
-title: Principis d'arquitectura (test blocs)
-description: null
+title: Principis d'arquitectura
 weight: '3'
 Blocs:
   - contingut: >
