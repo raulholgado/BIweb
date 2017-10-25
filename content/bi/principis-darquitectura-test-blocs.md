@@ -1,6 +1,6 @@
 ---
 title: Principis d'arquitectura
-description: prova
+description: ''
 weight: '3'
 Blocs:
   - contingut: >
